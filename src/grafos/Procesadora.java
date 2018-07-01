@@ -4,6 +4,11 @@ import java.util.*;
 
 import javax.swing.SingleSelectionModel;
 
+/**
+ * Distintos procesos que le podes aplicar a un grafo.
+ * 
+ * @author pokengineer
+ */
 public class Procesadora {
 	private static int INFINITO = 99999;
 	private int[][] mat;

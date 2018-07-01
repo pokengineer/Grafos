@@ -9,8 +9,10 @@ public class GrafoNPartito extends Generadora {
 	}
 
 	public void generar() {
-		//a implementar
+		if( this.grupos > this.mat.getN() )
+			return;
 		
+		//a implementar
 	}
 	
 }
